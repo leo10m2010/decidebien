@@ -23,6 +23,22 @@
             <li>Ricardo Moran (@RicardoMoran)</li>
             <li>Michele Gabriela Fernandez (@La_micha)</li>
           </ul>
+          <h4>Desarrolladores:</h4>
+          <h5>Vue</h5>
+          <ul>
+            <li>Luis Salas (Github: zettai )</li>
+            <li>Antonio Cucho (Github: antoniocuga )</li>
+          </ul>
+          <h5>Shiny version</h5>
+          <ul>
+            <li>José Incio (@jlincio)</li>
+            <li>Malena Maguina (Github: malenamaguina)</li>
+            <li>Samuel Calderon (Github: calderonsamuel )</li>
+          </ul>
+          <h5>Android</h5>
+          <ul>
+            <li>Renato Ez (Github:leo10m2010)</li>
+          </ul>
           <h4>Web Oficial</h4>
           <ul>
            <li>decidebien.pe</li>
