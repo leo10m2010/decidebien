@@ -4,7 +4,7 @@
       <v-col cols="12">
         <v-row align="start" justify="center">
           <v-card class="ma-3 pa-6 red lighten-3 text-center" outlined tile>
-            <h1>Decide Bien</h1>
+            <h1>Voto Informado</h1>
             <h2>
               ¿Te cuesta decidir por qué lista al Congreso 2020 votar el próximo
               26 de Enero?

@@ -13,7 +13,7 @@
             revisa aquí. Esta plataforma fue iniciada por José Incio y ahora
             cuenta con much@s colaboradores Cualquier error con la data escribe
             a:
-            <a href="mailto:" target="_top">jincio@gmail.com</a>
+            <a href="mailto:" target="_top">therenatoem@gmail.com</a>
           </p>
           <h4>Donantes:</h4>
           <ul>

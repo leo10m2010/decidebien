@@ -3,6 +3,6 @@
 describe("Visita el app", () => {
   it("Visita el root url", () => {
     cy.visit("/");
-    cy.contains("h1", "Decide Bien");
+    cy.contains("h1", "Voto Informado");
   });
 });
