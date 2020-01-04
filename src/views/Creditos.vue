@@ -21,10 +21,13 @@
             <li>Javier Tarrillo (@jtarrillov)</li>
             <li>Eliana Carlin (@ElianaCarlin)</li>
             <li>Ricardo Moran (@RicardoMoran)</li>
-            <li>Michele Gabriela Fernandez (@@La_micha)</li>
+            <li>Michele Gabriela Fernandez (@La_micha)</li>
           </ul>
-          <p>WEB OFFICIAL<a href="https://decidebien.pe/"
-          >DECIDEBIEN.PE</a></p>
+          <h4>WEB OFFICIAL</h4>
+          <ul>
+           <li><a href="https://decidebien.pe/"
+          >DECIDEBIEN.PE</a></li>
+          </ul>
         </v-card-text>
       </v-card>
     </v-flex>
