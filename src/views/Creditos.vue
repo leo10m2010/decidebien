@@ -23,6 +23,8 @@
             <li>Ricardo Moran (@RicardoMoran)</li>
             <li>Michele Gabriela Fernandez (@@La_micha)</li>
           </ul>
+          <p>WEB OFFICIAL<a href="https://decidebien.pe/"
+          >DECIDEBIEN.PE</a></p>
         </v-card-text>
       </v-card>
     </v-flex>

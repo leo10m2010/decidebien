@@ -109,7 +109,7 @@
     <v-app-bar app clipped-right color="red">
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
       <v-toolbar-title class="mr-12 align-center">
-        <span class="white--text title">DecideBien.pe</span>
+        <span class="white--text title">Voto Informado</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
     </v-app-bar>
